@@ -1,4 +1,4 @@
-# CryptoChange
+# CryptoXChange
 Convert crypto-currencies with realtime exchange rates
 
 # Currently Under Construction.... 
